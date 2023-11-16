@@ -16,7 +16,7 @@ O clone tem como resultado final realmente uma cópia do site original, como for
 https://polysaantana.github.io/Clone-Spotify/
 
 <div align="center">
-  <img src="img/spotify.jpeg" alt="Spotify" width="300.12" />
+  <img src="img/spotify.jpeg" alt="Spotify"/>
 </div>
 
 
